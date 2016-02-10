@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Za niedugo bdzie strona
+Za niedugo będzie strona
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
