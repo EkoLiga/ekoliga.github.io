@@ -4,9 +4,9 @@ title: Tabela
 permalink: /tabela/
 ---
 
-#Tabela
+# Tabela
 
-##Test 2
+## Test 2
 
 Drużyna | Punkty
 --------|-------
