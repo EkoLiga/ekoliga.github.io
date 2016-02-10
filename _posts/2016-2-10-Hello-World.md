@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now strona wkrótce
+title: Nowa strona wkrótce
 ---
 
 Za niedługo będzie strona
