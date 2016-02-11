@@ -284,6 +284,10 @@ footer {
 }
 
 table {
+    border: 1px solid $darkGray;
+}
+
+td {
     border: 1px solid $darkerGray;
     padding: 5px;
 }
