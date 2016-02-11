@@ -283,18 +283,14 @@ footer {
   text-align: center;
 }
 
-table {
-    border: 1px solid $lightGray;
-}
-
 th {
-    border: 1px solid $lightGray;
+    border: 1px solid $gray;
     padding: 3px 5px;
     font-weight: 700;
 }
 
 td {
-    border: 1px solid $lightGray;
+    border: 1px solid $gray;
     padding: 3px 5px;
 }
 
