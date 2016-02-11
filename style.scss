@@ -284,12 +284,18 @@ footer {
 }
 
 table {
+    border: 1px solid $lightGray;
+}
+
+th {
     border: 1px solid $darkGray;
+    padding: 3px 5px;
+    font-weight: 700;
 }
 
 td {
-    border: 1px solid $darkerGray;
-    padding: 5px;
+    border: 1px solid $darkGray;
+    padding: 3px 5px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
