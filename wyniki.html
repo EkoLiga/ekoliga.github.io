@@ -1,0 +1,22 @@
+---
+layout: default
+title: Wyniki
+permalink: /wyniki/
+---
+
+<div class="posts">
+  {% for post in site.tags.wyniki %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ content }}
+      </div>
+
+      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Czytaj więcej</a>-->
+    </article>
+  {% endfor %}
+</div>
+
+
