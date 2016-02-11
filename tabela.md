@@ -4,9 +4,9 @@ title: Tabela
 permalink: /tabela/
 ---
 
-Drużyna | Punkty
---------|-------
-Blabla  | 12
-Test    | 9
+Miejsce | Drużyna | Mecze | Punkty | Zdobyte | Stracone
+---|---|---|---|---|---
+1 | Blabla | 2 | 6 | 4 | 1
+2 | Test   | 2 | 0 | 1 | 4
 
 
